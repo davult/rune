@@ -1,3 +1,3 @@
-# Rune
+# Runes
 
-* Rune it's an application to write 'The Flames of Arcane' runes and test them o/
+* Rune it's an application to write ebooks and read them o/
